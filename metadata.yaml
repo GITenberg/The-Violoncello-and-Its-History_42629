@@ -1,0 +1,37 @@
+_repo: The-Violoncello-and-Its-History_42629
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stigand, Isobella S. E.
+    gutenberg_agent_id: '41751'
+    url: http://www.gutenberg.org/2009/agents/41751
+covers:
+- cover_type: archival
+  image_path: 42629-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Wasielewski, Wilhelm Joseph von
+    aliases:
+    - Wasielewski, Joseph Wilhelm von
+    - Wasielewski, W. J. v. (Wilhelm Joseph)
+    - Von Wasielewski, Wilhelm Joseph
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '41787'
+    url: http://www.gutenberg.org/2009/agents/41787
+description: ''
+gutenberg_issued: '2013-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42629'
+  lccn: '05042075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cello -- History'
+- !lcc 'ML'
+- !lcsh 'Cellists'
+title: The Violoncello and Its History
+url: http://www.gutenberg.org/ebooks/42629
